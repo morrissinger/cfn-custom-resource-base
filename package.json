@@ -36,7 +36,9 @@
     "sinon": "^3.2.1",
     "yargs": "^9.0.1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "superagent": "^3.6.3"
+  },
   "ava": {
     "require": "babel-register"
   }
